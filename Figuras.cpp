@@ -42,8 +42,8 @@ float nereyda(float l, float l1);
 	 	cout<<"area: "<<areli(b,h);
     break;
     case 5:
-	 	cout<<"Base menor y base mayor";
-	 	cin>>b>>h;
+	 	cout<<"Base menor y base mayor";cout<<"";	 	cin>>
+b>>h;
 	 	cout<<"area: "<<areli(b,h);
     break;
     case 6:
